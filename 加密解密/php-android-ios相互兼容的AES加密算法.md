@@ -1,10 +1,10 @@
-APPÏîÄ¿ÓÃ»§ÃÜÂë´«ÊäÒ»Ö±Ã»ÓĞÓÃHTTPS£¬¿¼ÂÇµ½ÓÃ»§µÄÒşË½ÔİÊ±ÏÈÓÃAES¶ÔÃÜÂë¼ÓÃÜ£¬ÒÔºóÒ²¿ÉÒÔÓÃÓÚÊÖ»ú¶ËÓë·şÎñ¶Ë¼ÓÃÜ½»»¥¡£
+APPé¡¹ç›®ç”¨æˆ·å¯†ç ä¼ è¾“ä¸€ç›´æ²¡æœ‰ç”¨HTTPSï¼Œè€ƒè™‘åˆ°ç”¨æˆ·çš„éšç§æš‚æ—¶å…ˆç”¨AESå¯¹å¯†ç åŠ å¯†ï¼Œä»¥åä¹Ÿå¯ä»¥ç”¨äºæ‰‹æœºç«¯ä¸æœåŠ¡ç«¯åŠ å¯†äº¤äº’ã€‚
 
-PHPµÄÃâ·Ñ°æphpAESÏîÄ¿£¬ÊÖ»ú¶Ë½âÂë¸÷ÖÖ²»¶Ô¡£
+PHPçš„å…è´¹ç‰ˆphpAESé¡¹ç›®ï¼Œæ‰‹æœºç«¯è§£ç å„ç§ä¸å¯¹ã€‚
 
-ºÃ²»ÈİÒ×ÕÒÁËPHP ANDROID IOS£¬Ïà»¥¼Ó½âÃÜÕı³£µÄAES¼ÓÃÜËã·¨´úÂë¡£
+å¥½ä¸å®¹æ˜“æ‰¾äº†PHP ANDROID IOSï¼Œç›¸äº’åŠ è§£å¯†æ­£å¸¸çš„AESåŠ å¯†ç®—æ³•ä»£ç ã€‚
 
-PHPµÄAES¼ÓÃÜËã·¨£º
+PHPçš„AESåŠ å¯†ç®—æ³•ï¼š
 
 ```php
     class MCrypt {
@@ -69,13 +69,13 @@ PHPµÄAES¼ÓÃÜËã·¨£º
 	echo $encryption->encrypt('123456') . "<br/>";
 	echo $encryption->decrypt('tpyxISJ83dqEs3uw8bN/+w==');
 	
-	 ```
+```
 	 
 	 
 	 
-	 javaµÄAES¼ÓÃÜËã·¨£º
+	 javaçš„AESåŠ å¯†ç®—æ³•ï¼š
 	 
-	 ```java
+```java
 	 
 	import javax.crypto.Cipher;
 	import javax.crypto.spec.IvParameterSpec;
@@ -125,14 +125,14 @@ PHPµÄAES¼ÓÃÜËã·¨£º
 		}
 	}
 	
-	 ```
+```
 	 
 	 
-	IOSµÄAES¼ÓÃÜËã·¨£º
+	IOSçš„AESåŠ å¯†ç®—æ³•ï¼š
 	 
 	https://github.com/Gurpartap/AESCrypt-ObjC
 	 
-	stackoverflow²Î¿¼
+	stackoverflowå‚è€ƒ
 	http://stackoverflow.com/questions/5928915/wanted-compatible-aes-code-encrypt-decrypt-for-iphone-android-windows-xp
 
 	http://stackoverflow.com/questions/19196728/aes-128-encryption-in-java-decryption-in-php
